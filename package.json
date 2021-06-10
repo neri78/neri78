@@ -1,0 +1,23 @@
+{
+  "name": "neri78",
+  "version": "1.0.0",
+  "description": "neri78's information",
+  "main": "index.js",
+  "bin" : {
+    "neri78" : "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neri78/neri78.git"
+  },
+  "keywords": ["npx", "neri78"],
+  "author": "Daizen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neri78/neri78/issues"
+  },
+  "homepage": "https://github.com/neri78/neri78#readme"
+}

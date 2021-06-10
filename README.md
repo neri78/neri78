@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I am Daizen Ikehara 👋
+
+- 🌏 I live in Tokyo, Japan
+- 🌱 I’m currently learning Javascript, Node.js, Typescript
+- 💬 Ask me about Twilio, somewhat C#
+- 📫 How to reach me: [@neri78](https://twitter.com/neri78)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Played a [EverQuest]() for 12,768 hours and keep going. I also play [FF14](https://na.finalfantasyxiv.com/), [DQW](https://www.dragonquest.jp/walk/)
 
 <!--
 **neri78/neri78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
